@@ -3,8 +3,8 @@ using react js
 
 
 # required installations 
-> `npx create-react-app . `
+> npx create-react-app . 
 
 for icon library 
-> `npm instal react-icons --save `
+> npm instal react-icons --save 
 
