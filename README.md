@@ -12,5 +12,5 @@ for icon library
 
 
 hosted on vercel server : 
-https://create-noteapp.vervel.app
+https://create-noteapp.vercel.app
 
