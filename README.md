@@ -8,3 +8,9 @@ using react js
 for icon library 
 > npm instal react-icons --save 
 
+
+
+
+hosted on vercel server : 
+https://create-noteapp.vervel.app
+
